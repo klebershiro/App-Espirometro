@@ -11,3 +11,5 @@ Projeto solicitado à Mackleaps em parceria com a Faculdade de Fisioteriapia do 
 *Phonegap / Cordova
 *CSS
 *Html
+*Visual Studio Code
+*OS: Ubuntu (Linux)
